@@ -1,0 +1,72 @@
+PROPRIETARY SOFTWARE LICENSE — ALL RIGHTS RESERVED
+
+Copyright (c) 2025–2026 Semyon Kolchin, Dmitry Kutsenko, Vyacheslav Guch.
+All rights reserved.
+
+This repository ("the Software") — including its source code, documentation,
+diagrams, screenshots, machine-learning models, prompts, and any other material
+contained herein — is the exclusive property of the copyright holders named
+above (collectively, "the Authors").
+
+The Software is made source-available for the sole purposes of evaluation,
+demonstration, and technical reference (for example, review by potential
+employers, partners, or investors). It is NOT open-source software, and no
+open-source license is granted.
+
+1. NO GRANT OF RIGHTS
+   Except for the limited permission in Section 2, no license or right,
+   express or implied, is granted to any person or entity. All rights not
+   expressly granted are reserved by the Authors.
+
+2. PERMITTED USE
+   You may view and read the contents of this repository through the platform
+   on which it is hosted, for the purpose of evaluating the Authors' work. Any
+   copying, caching, or reproduction that is strictly technically necessary to
+   view the repository through that platform is permitted only to that extent.
+
+3. PROHIBITED USE
+   Without the prior written permission of the Authors, you may NOT, in whole
+   or in part:
+     (a) copy, reproduce, download, or store the Software except as allowed by
+         Section 2;
+     (b) use the Software, or any portion of it, in any product, service,
+         project, model, or system, whether commercial or non-commercial;
+     (c) modify, adapt, translate, or create derivative works from the
+         Software;
+     (d) build any product or system that is substantially similar to, or
+         derived from, the Software's code, architecture, design, prompts, or
+         methodology, where such similarity results from access to this
+         repository;
+     (e) distribute, publish, sublicense, sell, rent, lease, or otherwise make
+         the Software available to any third party;
+     (f) remove, obscure, or alter any copyright, trademark, or other
+         proprietary notice.
+
+4. RESERVED RIGHTS OF THE AUTHORS
+   Nothing in this license restricts the Authors themselves. The Authors retain
+   the full and perpetual right to use, modify, relicense, commercialize, and
+   further develop the Software, individually or together, including as part of
+   any company or team they choose to form.
+
+5. TRADEMARKS
+   No right is granted to use any name, logo, or trademark of the Authors or of
+   any third party referenced in the Software.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+8. TERMINATION
+   Any breach of this license automatically terminates the permission granted
+   in Section 2. Upon termination you must cease all use and destroy any copies
+   in your possession.
+
+For licensing inquiries, contact the Authors:
+  Semyon Kolchin — https://github.com/simeonkolchin · @simeon_kolchin (Telegram)
