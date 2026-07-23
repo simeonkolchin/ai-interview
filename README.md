@@ -6,6 +6,7 @@
 
 Вопросы генерирует LLM под конкретную пару «вакансия × резюме». Ответы распознаёт речевой движок и оценивает та же модель. Честность прохождения контролирует отдельный сервис компьютерного зрения, который по 478 точкам лица отличает чтение с экрана от размышления.
 
+[![Live](https://img.shields.io/badge/live-ai--interview.space-3b82f6)](https://ai-interview.space)
 [![Made with FastAPI](https://img.shields.io/badge/FastAPI-4_services-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React_18-TypeScript-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![GigaChat](https://img.shields.io/badge/LLM-GigaChat-1E9E5A)](https://developers.sber.ru/portal/products/gigachat)
@@ -18,6 +19,8 @@
 <img src="docs/images/screens/interview-detail.png" width="88%" alt="Отчёт по интервью: итоговый скор, оценки ответов, видео и таймлайн взгляда"/>
 
 <sub>Страница интервью глазами рекрутера: итоговый скор, объяснение результата, транскрипция, видеозапись и таймлайн честности — сколько кандидат смотрел в одну точку, читал и водил глазами по экрану.</sub>
+
+**🔗 Живой продукт: [ai-interview.space](https://ai-interview.space)**
 
 </div>
 
