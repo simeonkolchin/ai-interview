@@ -48,7 +48,8 @@
 
 </div>
 
-**📺 Полные записи демо** (сценарий рекрутера, прохождение кандидатом, мобильная версия) — в [релизе `demo`](https://github.com/simeonkolchin/ai-interview/releases/tag/demo). Живой продукт: **[ai-interview.space](https://ai-interview.space)**.
+**📺 Полное демо** — три записи полного сценария (рекрутер, кандидат, мобильная версия):
+[Google Drive](https://drive.google.com/drive/folders/174rOTI-VNa3e0xOSok07XKPzixmhS6gU) · [GitHub Release](https://github.com/simeonkolchin/ai-interview/releases/tag/demo). Живой продукт: **[ai-interview.space](https://ai-interview.space)**.
 
 ## 📋 Содержание
 
