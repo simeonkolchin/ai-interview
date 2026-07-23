@@ -12,7 +12,7 @@
 flowchart TD
     F["🎥 Кадр"] --> M["MediaPipe Face Mesh · 478 точек"]
     M --> G["Геометрия глаз<br/><sub>радужка 468–473, веки, уголки</sub>"]
-    M --> H["Позаголовы · yaw/pitch/roll"]
+    M --> H["Поза головы · yaw/pitch/roll"]
     G & H --> S1["Stage 1 · регрессия (ONNX)<br/><sub>признаки → (x, y) на экране</sub>"]
     S1 --> K["Фильтр Калмана<br/><sub>состояние [x, ẋ, y, ẏ]</sub>"]
     K --> S2["Stage 2 · temporal CNN<br/><sub>STATIC · READ · THINK · SCAN</sub>"]
